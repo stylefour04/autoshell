@@ -85,12 +85,12 @@ class StealthShellHunter:
                     print(f"\033[1;33m[!] SUSPICIOUS PARAMS: {url}\033[0m")
             
         except Exception as e:
-            print(f"\033[1;90m[-] Error scanning {url}: {str(e)[:50]}\033[0m")
+            print(f"\033[1;90m[-] Di temukan {url}: {str(e)[:50]}\033[0m")
 
 if __name__ == "__main__":
     import sys
     if len(sys.argv) != 2:
-        print("Usage: python3 stealthhunter.py <url>")
+        print("Usage: python3 shell.py <url>")
         sys.exit(1)
     
     hunter = StealthShellHunter()
