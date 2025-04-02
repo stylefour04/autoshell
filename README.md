@@ -9,3 +9,4 @@ cd autoshell
 python3 shell.py https://masukan url.com
 
 ![ParamSpider Screenshot](https://e.top4top.io/p_3379u2do60.jpg)
+Dari foto tersebut tsrlihat 2 shell yang sudah tertanam dengan nama shell yang di samarkan tinggal mengakses dengan https://url.com/04.php
