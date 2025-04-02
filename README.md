@@ -2,7 +2,7 @@ TOOLS INI DI BUAT UNTUK MENCARI SHELL YANG SUDAH TERTANAM DAN TOOLS INI HANYA DA
 
 pip install requests
 
-git cline https://github.com/stylefour04/autoshell.git
+git clone https://github.com/stylefour04/autoshell.git
 
 cd autoshell
 
